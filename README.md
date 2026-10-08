@@ -1,5 +1,6 @@
 # HelloWorkshop
 dotnet run
 
-##kontakt
+## kontakt
 autor: Adam B
+zespół warsztat programisty
