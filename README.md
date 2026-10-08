@@ -1,0 +1,2 @@
+# HelloWorkshop
+dotnet run
