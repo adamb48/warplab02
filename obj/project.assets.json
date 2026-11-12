@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s37351\\Documents\\warplab02\\HelloWorkshop\\HelloWorkshop.csproj",
+      "projectUniqueName": "D:\\WORK\\s37351\\git\\warplab02\\HelloWorkshop.csproj",
       "projectName": "HelloWorkshop",
-      "projectPath": "C:\\Users\\s37351\\Documents\\warplab02\\HelloWorkshop\\HelloWorkshop.csproj",
+      "projectPath": "D:\\WORK\\s37351\\git\\warplab02\\HelloWorkshop.csproj",
       "packagesPath": "C:\\Users\\s37351\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s37351\\Documents\\warplab02\\HelloWorkshop\\obj\\",
+      "outputPath": "D:\\WORK\\s37351\\git\\warplab02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s37351\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+D:\WORK\s37351\git\warplab02\bin\Release\net10.0\HelloWorkshop.exe
+D:\WORK\s37351\git\warplab02\bin\Release\net10.0\HelloWorkshop.deps.json
+D:\WORK\s37351\git\warplab02\bin\Release\net10.0\HelloWorkshop.runtimeconfig.json
+D:\WORK\s37351\git\warplab02\bin\Release\net10.0\HelloWorkshop.dll
+D:\WORK\s37351\git\warplab02\bin\Release\net10.0\HelloWorkshop.pdb
+D:\WORK\s37351\git\warplab02\obj\Release\net10.0\HelloWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\s37351\git\warplab02\obj\Release\net10.0\HelloWorkshop.AssemblyInfoInputs.cache
+D:\WORK\s37351\git\warplab02\obj\Release\net10.0\HelloWorkshop.AssemblyInfo.cs
+D:\WORK\s37351\git\warplab02\obj\Release\net10.0\HelloWorkshop.csproj.CoreCompileInputs.cache
+D:\WORK\s37351\git\warplab02\obj\Release\net10.0\HelloWorkshop.sourcelink.json
+D:\WORK\s37351\git\warplab02\obj\Release\net10.0\HelloWorkshop.dll
+D:\WORK\s37351\git\warplab02\obj\Release\net10.0\refint\HelloWorkshop.dll
+D:\WORK\s37351\git\warplab02\obj\Release\net10.0\HelloWorkshop.pdb
+D:\WORK\s37351\git\warplab02\obj\Release\net10.0\HelloWorkshop.genruntimeconfig.cache
+D:\WORK\s37351\git\warplab02\obj\Release\net10.0\ref\HelloWorkshop.dll
