@@ -34,3 +34,6 @@ jobs:
       - name: Run project
         shell: bash
         run: dotnet run --project "$PROJECT_PATH" --configuration Release --no-build
+      - name: Check repository structure
+        shell: bash
+        run: bash scripts/check-repository.sh "$PROJECT_PATH"
