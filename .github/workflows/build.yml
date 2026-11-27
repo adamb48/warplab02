@@ -21,6 +21,9 @@ jobs:
         run: echo "Runner is ready"
       - name: Checkout repository
         uses: actions/checkout@v4
+      - name: Check repository structure
+        shell: bash
+        run: bash scripts/check-repository.sh "$PROJECT_PATH"
       - name: Setup .NET
         uses: actions/setup-dotnet@v4
         with:
@@ -34,6 +37,4 @@ jobs:
       - name: Run project
         shell: bash
         run: dotnet run --project "$PROJECT_PATH" --configuration Release --no-build
-      - name: Check repository structure
-        shell: bash
-        run: bash scripts/check-repository.sh "$PROJECT_PATH"
+      
